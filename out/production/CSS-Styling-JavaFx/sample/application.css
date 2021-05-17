@@ -1,0 +1,20 @@
+
+.root {
+    -fx-background-color: #111111;
+}
+
+.label {
+    -fx-font-family: "Monaco";
+    -fx-font-size: 16;
+    -fx-text-fill: "white";
+    -fx-alignment: center;
+}
+
+#Title {
+    -fx-font-size: 24;
+    -fx-text-fill: "orange";
+}
+
+#exit {
+    -fx-text-fill: "red";
+}
